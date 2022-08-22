@@ -1,0 +1,29 @@
+# NAVIGATE TO PISANO
+* Navigate to "https://stage.pisano.co/widget_test.html?code=PSN-cg56fpn&env=stage"
+# CLICK ON IFRAME
+* Click on "Iframe Widget Opener" element
+* Switch to iframe
+# CHOOSE RECOMMENDATION LEVEL
+* Click on "Recommend Number" element
+# CHOOSE SENTIMENT LEVEL
+* Click on "Choose Sentiment" element
+# CLICK TO NEXT PAGE BUTTON
+* Click on "Next Page Button" element
+# ACCEPT THE AGGREMENT
+* Type "something random" in the "Conversation input" element
+* Click from "Aggrement and Favorite Buttons" list "0" element
+# CHOOSE PISANO AS FAVORITE
+* Click from "Aggrement and Favorite Buttons" list "2" element
+# CLICK TO NEXT PAGE BUTTON ON SECOND PAGE
+* Click on "Next Page Button2" element
+# TYPE RANDOM GENERATED EMAIL,NAME AND PHONENUMBER
+* Send defined keys to "input email" "input name" "input phone" elements
+# CLICK TO SUBMIT
+* Click on "Submit Button" element
+# VERIFY THAT TEST WERE SUCCEEDED
+* Check the "Thanks, I think test were succeeded" is displayed in the "Test Succeed Label" element
+# DON'T ACCEPT THE AGGREMENT
+* Type "something random" in the "Conversation input" element
+* Click from "Aggrement and Favorite Buttons" list "1" element
+# VALIDATE THAT YOU KICKED BACK TO FIRST PAGE
+* Check the "Would you recommend us to your friends and colleagues? (0: Not likely at all, 10: Very likely)" is displayed in the "Validate on First Page" element

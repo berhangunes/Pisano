@@ -1,0 +1,66 @@
+[{
+  "key": "Iframe Widget Opener",
+  "type": "id",
+  "value": "psn-widget-button-frame"
+},
+  {
+    "key": "Recommend Number",
+    "type": "css",
+    "value": "div[class='button button--nps']:nth-child(8)"
+  },
+  {
+    "key": "Choose Sentiment",
+    "type": "css",
+    "value": "div[style='opacity: 1;']:nth-child(1)"
+  },
+  {
+    "key": "Next Page Button",
+    "type": "id",
+    "value": "a0b6bac7-d894-42c7-a677-31814456ead9"
+  },
+  {
+    "key": "Aggrement and Favorite Buttons",
+    "type": "css",
+    "value": "div[class='button has-check']"
+  },
+  {
+    "key": "Next Page Button2",
+    "type": "id",
+    "value": "37521850-fa76-4599-a027-096228733e79"
+  },
+  {
+    "key": "Conversation input",
+    "type": "id",
+    "value": "78c3febe-85a2-4c11-8b94-f92d15ce6387"
+  },
+  {
+    "key": "input email",
+    "type": "css",
+    "value": "input[type='email']"
+  },
+  {
+    "key": "input name",
+    "type": "css",
+    "value": "input[type='text']"
+  },
+  {
+    "key": "input phone",
+    "type": "css",
+    "value": "input[type='tel']"
+  },
+  {
+    "key": "Submit Button",
+    "type": "id",
+    "value": "d7c25d6a-17e8-45d3-a831-67732c8b81e2"
+  },
+  {
+    "key": "Test Succeed Label",
+    "type": "css",
+    "value": "div[class='label']"
+  },
+  {
+    "key": "Validate on First Page",
+    "type": "css",
+    "value": "label[for='3bc04ad8-f4ef-4b19-a62e-efc43f3cb237']"
+  }
+]
